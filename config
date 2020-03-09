@@ -95,16 +95,16 @@ bindsym $mod+a focus parent
 #bindsym $mod+d focus child
 
 # workspace variables
-set $workspace1 "term"
-set $workspace2 "browser"
-set $workspace3 "pim"
-set $workspace4 "ide"
-set $workspace5 "git"
-set $workspace6 "kpass"
-set $workspace7 "com"
-set $workspace8 "dev"
-set $workspace9 "misc"
-set $workspace10 "media"
+set $workspace1 "1 term"
+set $workspace2 "2 browser"
+set $workspace3 "3 pim"
+set $workspace4 "4 ide"
+set $workspace5 "5 git"
+set $workspace6 "6 kpass"
+set $workspace7 "7 com"
+set $workspace8 "8 dev"
+set $workspace9 "9 misc"
+set $workspace10 "0 media"
 
 
 
