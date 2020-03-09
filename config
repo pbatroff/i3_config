@@ -276,3 +276,10 @@ exec feh --bg-fill /home/$USER/Pictures/wallpapers/michal-kvac-forest-of-souls-s
 
 # no title bar
 # new_window 1pixel
+
+# Move containers to different screens
+# https://i3wm.org/docs/userguide.html#_moving_workspaces_to_a_different_screen
+# move to primary
+bindsym $mod+x move workspace to output primary
+# move to extended display
+bindsym $mod+y move workspace to output HDMI1
