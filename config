@@ -283,3 +283,7 @@ exec feh --bg-fill /home/$USER/Pictures/wallpapers/michal-kvac-forest-of-souls-s
 bindsym $mod+x move workspace to output primary
 # move to extended display
 bindsym $mod+y move workspace to output HDMI1
+
+# jump back/forth between workspaces
+bindsym $mod+Tab workspace back_and_forth
+
