@@ -287,3 +287,5 @@ bindsym $mod+y move workspace to output HDMI1
 # jump back/forth between workspaces
 bindsym $mod+Tab workspace back_and_forth
 
+#start notification demon
+exec twmnd
